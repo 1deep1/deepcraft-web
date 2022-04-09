@@ -14,7 +14,7 @@ const Layout = ({ children, title = 'page' }: Props) => {
         <div>
             <Head>
                 <title>{title} | deepCraft</title>
-                <meta name="description" content="deepCraft - глубже, чем бедрок." />
+                <meta name="description" content="deepCraft - глубже, чем бедрок. Сервера для игры с друзьми." />
                 <link rel="icon" href="/favicon.ico" />
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
